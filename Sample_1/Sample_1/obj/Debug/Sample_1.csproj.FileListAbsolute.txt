@@ -1,0 +1,6 @@
+E:\Project\WXGZPTQYYYKFSZ\Sample_1\Sample_1\bin\Sample_1.dll.config
+E:\Project\WXGZPTQYYYKFSZ\Sample_1\Sample_1\bin\Sample_1.dll
+E:\Project\WXGZPTQYYYKFSZ\Sample_1\Sample_1\bin\Sample_1.pdb
+E:\Project\WXGZPTQYYYKFSZ\Sample_1\Sample_1\obj\Debug\Sample_1.csprojResolveAssemblyReference.cache
+E:\Project\WXGZPTQYYYKFSZ\Sample_1\Sample_1\obj\Debug\Sample_1.dll
+E:\Project\WXGZPTQYYYKFSZ\Sample_1\Sample_1\obj\Debug\Sample_1.pdb
